@@ -13,26 +13,28 @@ public class Week01VariablesAndOperationsLab {
 		// 1. Create a variable to hold the quantity of 
 		//		available plane seats left on a flight		
 
+		int seats;
 		
 		// 2. Create a variable to hold the cost of groceries at checkout
 
-		
+		double cost;
 		// 3. Create a variable to hold a person's middle initial
 
+		char intial;
 	
 		// 4. Create a variable to hold true if it's hot outside 
 		//		and false if it's cold outside
 
-		
+		boolean cold;
 		// 5. Create a variable to hold a customer's first name
-
+		String name;
 		
 		// 6. Create a variable to hold a street address
 		
-
+		String address;
 		// 7. Print all variables to the console
 	
-
+		
 		// 8. A customer booked 2 plane seats, 
 		//		remove 2 seats from the available seats variable
 	
